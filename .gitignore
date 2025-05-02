@@ -1,0 +1,5 @@
+# .gitignore for C# Console app, .NET 9, VS Code
+
+obj
+bin
+*.log
